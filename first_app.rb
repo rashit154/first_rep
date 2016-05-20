@@ -1,4 +1,5 @@
 arr = %w(first second therd bla bla2 bla3)
 arr.each do |a|
-  puts "hello #{a}"
-end  	
+  puts "hello world!!! #{a}"
+end 
+ 	
